@@ -71,6 +71,7 @@ body{
 .header h1{
     margin-top: 400px;
     vertical-align: middle;
+    position: fixed;
 }
 
 /* GALLERY */
